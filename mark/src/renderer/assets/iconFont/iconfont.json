@@ -1,0 +1,114 @@
+{
+  "id": "1482289",
+  "name": "桌面阅卷",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "657312",
+      "name": "分期－警告－1",
+      "font_class": "jinggao1",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "1239935",
+      "name": "对号2",
+      "font_class": "duihao2",
+      "unicode": "e69e",
+      "unicode_decimal": 59038
+    },
+    {
+      "icon_id": "1684421",
+      "name": "关闭",
+      "font_class": "guanbi1",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "2602803",
+      "name": "对号",
+      "font_class": "duihao",
+      "unicode": "e679",
+      "unicode_decimal": 59001
+    },
+    {
+      "icon_id": "2854021",
+      "name": "插件-添加正方形红边",
+      "font_class": "zhengfangxinggouxuankuang-weixuanzhong-",
+      "unicode": "e77f",
+      "unicode_decimal": 59263
+    },
+    {
+      "icon_id": "4687897",
+      "name": "开始",
+      "font_class": "kaishi",
+      "unicode": "e686",
+      "unicode_decimal": 59014
+    },
+    {
+      "icon_id": "5050448",
+      "name": "最小化",
+      "font_class": "zuixiaohua1",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "5409688",
+      "name": "最小化",
+      "font_class": "zuixiaohua",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "5809153",
+      "name": "错误1",
+      "font_class": "cuowu",
+      "unicode": "e67e",
+      "unicode_decimal": 59006
+    },
+    {
+      "icon_id": "5896117",
+      "name": "最大化",
+      "font_class": "zuidahua1",
+      "unicode": "e67d",
+      "unicode_decimal": 59005
+    },
+    {
+      "icon_id": "8882338",
+      "name": "暂停 停止",
+      "font_class": "zantingtingzhi",
+      "unicode": "e674",
+      "unicode_decimal": 58996
+    },
+    {
+      "icon_id": "9470445",
+      "name": "关 闭",
+      "font_class": "guanbi",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "11250884",
+      "name": "最大化",
+      "font_class": "zuidahua",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "11521333",
+      "name": "未标题-1",
+      "font_class": "weibiaoti-3",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "11526492",
+      "name": "未标题-3",
+      "font_class": "weibiaoti-4",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    }
+  ]
+}
